@@ -1,0 +1,13 @@
+.actions {
+    padding: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    margin: 1rem;
+  }
+
+.text {
+    transition: h3 0.5s ease;
+    color: white;
+    text-decoration: none;
+
+}
