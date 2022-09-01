@@ -1,4 +1,4 @@
-# Random Quote Machina
+# Random Quote Machine
 
 Simple project made for the freebootcamp Front-End Libraries course using React JS.
 
